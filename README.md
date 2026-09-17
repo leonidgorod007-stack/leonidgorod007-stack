@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.jpg" alt="Nyan Cat crossing a pixel-art night sky" width="100%" />
+  <img src="./assets/hero.jpg" alt="Minions gathered around a red sphere" width="100%" />
 </p>
 
 <div align="center">
@@ -26,16 +26,6 @@ profile:
   priorities: [performance, security, observability, maintainability]
   approach: measurable results and production reliability
 ```
-
-## Selected impact
-
-| Engineering signal | Result |
-|:--|--:|
-| Commercial development | **4 years** |
-| Critical database query time | **-63–80%** |
-| Contacts processed in one pipeline | **10,000+** |
-| Marketplace items updated | **600+ / 3h** |
-| Roles in a production RBAC model | **5** |
 
 ## Selected systems
 
