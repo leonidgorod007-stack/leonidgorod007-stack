@@ -4,94 +4,107 @@
 
 <div align="center">
 
-# Леонид Городницкий
+# ryhtapi
 
-`backend / automation / systems`
+### Backend & Fullstack Engineering
 
-### systems, scripts & suspiciously specific optimizations
+Reliable APIs, data-intensive services and production-ready integrations.
 
-[![Telegram](https://img.shields.io/badge/telegram-@ryhtapi-161b22?style=for-the-badge&logo=telegram&logoColor=58a6ff)](https://t.me/ryhtapi)
-[![Email](https://img.shields.io/badge/email-gld.n1%40yandex.ru-161b22?style=for-the-badge&logo=maildotru&logoColor=a371f7)](mailto:gld.n1@yandex.ru)
+[![Telegram](https://img.shields.io/badge/Telegram-@ryhtapi-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ryhtapi)
+
+![Backend](https://img.shields.io/badge/BACKEND-6E40C9?style=flat-square)
+![API Architecture](https://img.shields.io/badge/API_ARCHITECTURE-0969DA?style=flat-square)
+![Data Systems](https://img.shields.io/badge/DATA_SYSTEMS-1F883D?style=flat-square)
+![Security](https://img.shields.io/badge/SECURITY-D1242F?style=flat-square)
 
 </div>
 
-```text
-┌─ leonid@localhost ~
-│ role      backend / fullstack engineer
-│ bias      Python, APIs, automation, data pipelines
-│ obsession making manual work disappear
-│ cares     latency, failure modes, security, DX
-│ status    caffeinated / shipping
-└─
+```yaml
+profile:
+  role: backend / fullstack engineer
+  focus: [API architecture, data processing, service integrations]
+  priorities: [performance, security, observability, maintainability]
+  approach: measurable results and production reliability
 ```
 
-> Current fixation: turning chaotic business processes into typed APIs,
-> background jobs and pleasantly boring green dashboards.
+## Selected impact
 
-## Proof, not adjectives
-
-| signal | result |
+| Engineering signal | Result |
 |:--|--:|
-| commercial engineering | **4 years** |
-| critical DB query time | **-63–80%** |
-| contacts processed in one pipeline | **10,000+** |
-| marketplace items updated | **600+ / 3h** |
-| roles in a production RBAC model | **5** |
+| Commercial development | **4 years** |
+| Critical database query time | **-63–80%** |
+| Contacts processed in one pipeline | **10,000+** |
+| Marketplace items updated | **600+ / 3h** |
+| Roles in a production RBAC model | **5** |
 
-## Systems I have built
+## Selected systems
 
 ```yaml
 sindi_crm:
   stack: [Django, DRF, PostgreSQL, Redis, Docker]
-  shipped: [RBAC, finance workflows, external APIs, CI/CD, tests]
+  delivered: [RBAC, financial workflows, external APIs, CI/CD, tests]
 
 lead_hunter:
   stack: [Python, PySide6, Telethon, SQLite, LLM]
   scale: "~500 channels → 10,000+ unique contacts"
-  idea: "rule-based filters + LLM relevance scoring"
+  architecture: "rule-based filtering + LLM relevance scoring"
 
-ozon_automation:
+marketplace_processing:
   stack: [Python, Playwright, CDP, LLM, Excel]
   scale: "600+ products processed in 3 hours"
 
 data_platform:
   stack: [FastAPI, Celery, Redis, PostgreSQL, Prometheus, Grafana]
-  shipped: [ETL, async jobs, caching, monitoring, OpenAPI docs]
+  delivered: [ETL, async jobs, caching, monitoring, OpenAPI documentation]
 ```
 
-Some commercial work is private or under NDA. The architecture, trade-offs and
-results are fair game in a conversation.
+Commercial implementations may be private or protected by NDA. Technical
+decisions, architecture and measurable outcomes can be discussed publicly.
 
-## Toolbox
-
-**Core** · Python · Django · FastAPI · PostgreSQL · Redis · Celery<br>
-**Also shipped** · TypeScript · React · Next.js · Node.js · NestJS · Go · PHP<br>
-**Systems** · Docker · Git · CI/CD · REST · WebSocket · Playwright · Prometheus · Grafana<br>
-**Applied AI** · LLM APIs · hybrid scoring · content generation · workflow automation
-
-## Engineering defaults
-
-- Measure first; optimize the bottleneck that actually exists.
-- Prefer boring infrastructure to heroic debugging.
-- Automate the second repetition, document the third edge case.
-- Security is part of the design, not a pre-release checkbox.
-- A useful internal tool beats a beautiful unused platform.
-
-## Now
-
-- Building backend systems and automation with Python.
-- Studying information security at Altai State University.
-- Open to remote backend / fullstack work and hard technical problems.
+## Technology stack
 
 <div align="center">
 
-`Moscow · UTC+7 · English B2`
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-**If the problem has an API, a queue, or an annoying manual step — let's talk.**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
-<!--
-  Optional future media slot:
-  <img src="./assets/lab.png" alt="A visual map of my engineering interests" width="100%" />
--->
+**Backend** · Python · Django · FastAPI · Celery · Node.js · NestJS · Go<br>
+**Data** · PostgreSQL · MySQL · SQLite · Redis · ETL<br>
+**Frontend** · TypeScript · React · Next.js · Tailwind CSS<br>
+**Infrastructure** · Docker · CI/CD · Prometheus · Grafana · Git<br>
+**Integration** · REST · WebSocket · Playwright · Telegram API · LLM APIs
+
+## Engineering principles
+
+- Make architectural decisions from measurements and operational constraints.
+- Design APIs around explicit contracts, validation and predictable failures.
+- Treat security, testing and observability as core system requirements.
+- Prefer maintainable solutions with clear ownership and documentation.
+- Evaluate engineering work through measurable product and system outcomes.
+
+## Current focus
+
+- Backend architecture and scalable API design.
+- Data pipelines, asynchronous workloads and external service integrations.
+- Production quality: performance, tests, observability, security and CI/CD.
+- Open to remote backend and fullstack engineering opportunities.
+
+<div align="center">
+
+### Contact
+
+[![Telegram](https://img.shields.io/badge/Discuss_a_project-@ryhtapi-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ryhtapi)
+
+</div>
