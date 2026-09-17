@@ -1,0 +1,12 @@
+# Local exports and editing files
+assets/source/
+assets/*.psd
+assets/*.xcf
+assets/*.aep
+assets/*.prproj
+assets/*.mp4
+assets/*.mov
+
+# Keep final README assets tracked
+!assets/hero.gif
+!assets/lab.png
