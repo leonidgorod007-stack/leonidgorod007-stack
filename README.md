@@ -72,17 +72,19 @@ decisions, architecture and measurable outcomes can be discussed publicly.
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
 **Backend** · Python · Django · FastAPI · Celery · Node.js · NestJS · Go<br>
 **Data** · PostgreSQL · MySQL · SQLite · Redis · ETL<br>
-**Frontend** · TypeScript · React · Next.js · Tailwind CSS<br>
+**Frontend** · JavaScript · TypeScript · React · Next.js · Tailwind CSS<br>
 **Infrastructure** · Docker · CI/CD · Prometheus · Grafana · Git<br>
 **Integration** · REST · WebSocket · Playwright · Telegram API · LLM APIs
 
