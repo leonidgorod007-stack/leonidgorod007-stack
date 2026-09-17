@@ -1,12 +1,6 @@
-<!--
-  PROFILE MEDIA SLOT
-  1. Put the finished animation at assets/hero.gif
-  2. Uncomment the block below
-
 <p align="center">
-  <img src="./assets/hero.gif" alt="Leonid's animated profile banner" width="100%" />
+  <img src="./assets/hero.jpg" alt="Nyan Cat crossing a pixel-art night sky" width="100%" />
 </p>
--->
 
 <div align="center">
 
@@ -14,7 +8,7 @@
 
 `backend / automation / systems`
 
-### I turn slow, manual workflows into fast, observable software.
+### systems, scripts & suspiciously specific optimizations
 
 [![Telegram](https://img.shields.io/badge/telegram-@ryhtapi-161b22?style=for-the-badge&logo=telegram&logoColor=58a6ff)](https://t.me/ryhtapi)
 [![Email](https://img.shields.io/badge/email-gld.n1%40yandex.ru-161b22?style=for-the-badge&logo=maildotru&logoColor=a371f7)](mailto:gld.n1@yandex.ru)
@@ -22,11 +16,12 @@
 </div>
 
 ```text
-┌─ leonid@github
+┌─ leonid@localhost ~
 │ role      backend / fullstack engineer
 │ bias      Python, APIs, automation, data pipelines
-│ cares     latency, failure modes, security, developer experience
-│ status    shipping
+│ obsession making manual work disappear
+│ cares     latency, failure modes, security, DX
+│ status    caffeinated / shipping
 └─
 ```
 
