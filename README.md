@@ -68,10 +68,12 @@ decisions, architecture and measurable outcomes can be discussed publicly.
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=000000)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
+**Languages** · Python · JavaScript · TypeScript · Go · C<br>
 **Backend** · Python · Django · FastAPI · Celery · Node.js · NestJS · Go<br>
 **Data** · PostgreSQL · MySQL · SQLite · Redis · ETL<br>
 **Frontend** · JavaScript · TypeScript · React · Next.js · Tailwind CSS<br>
